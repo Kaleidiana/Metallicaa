@@ -1,0 +1,65 @@
+                                                                body {
+                                                                background-image: url("my imgs/pexels-jordy-toscano-18835601.jpg");
+                                                                background-repeat: no-repeat;
+                                                                background-size: cover;
+                                                            }
+                                                            
+                                                            .logo {
+                                                                color: #7e7b7b;
+                                                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                            }
+                                                            
+                                                            .p {
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .nav {
+                                                                display: flex;
+                                                                justify-content: space-around;
+                                                                flex-wrap: wrap;
+                                                                align-items: center;
+                                                                background-color: gainsboro;
+                                                            }
+                                                            
+                                                            .nav a {
+                                                                text-decoration: none;
+                                                                color: black;
+                                                                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                                                                font-size: 20px;
+                                                                margin: 0 0 0 60px;
+                                                                padding: 25px;
+                                                            }
+                                                            
+                                                            .this {
+                                                                color: rgb(189, 183, 183);
+                                                                font-size: 70px;
+                                                                margin-left: 30%;
+                                                                font-family: Georgia, 'Times New Roman', Times, serif;
+                                                                font-style: oblique;
+                                                            }
+                                                            
+                                                            .expl {
+                                                                color: white;
+                                                                margin: 60px;
+                                                                font-size: 60px;
+                                                            }
+                                                            
+                                                            span {
+                                                                color: red;
+                                                            }
+                                                            
+                                                            .metallica {
+                                                                font-size: 20px;
+                                                                color: grey;
+                                                                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                margin-left: 20%;
+                                                            }
+                                                            
+                                                            .copyright {
+                                                                font-size: 20px;
+                                                                font-family: Georgia, 'Times New Roman', Times, serif;
+                                                                color: rgb(189, 183, 183);
+                                                                background-color: rgb(0, 0, 0);
+                                                                padding: 20px;
+                                                                border-radius: 1px;
+                                                                1px;

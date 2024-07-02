@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    background-image: url("my imgs/gothhh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    color: rgb(189, 183, 183);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p {
+    color: rgb(189, 183, 183);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: gainsboro;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin: 0 0 0 60px;
+    padding: 25px;
+}
+
+.this {
+    color: rgb(189, 183, 183);
+    font-size: 70px;
+    margin: 80px;
+    align-items: ;
+}
+
+.expl {
+    color: rgb(189, 183, 183);
+    margin: 80px;
+    font-size: 60px;
+}
+
+span {
+    color: red;
+}
+
+
+/*Welcome to Metallica,
+where fashion meets attitude and style transcends boundaries. We are more than just an online store;
+we are a destination for individuals who embrace boldness,
+creativity,
+and self-expression through their wardrobe. At Metallica,
+we curate a diverse collection of clothing and shoes that speak to the rebellious spirit in all of us. From edgy streetwear to classic staples with a twist,
+our selection is carefully chosen to inspire confidence and empower our customers to make a statement with their fashion choices. Our mission is simple: to provide fashion-forward individuals with access to high-quality apparel and footwear that not only looks great but also feels great to wear. We believe that style should be accessible to everyone,
+which is why we offer a wide range of sizes and styles to cater to different tastes and preferences. But Metallica is more than just a place to shop. We are a community of like-minded individuals who celebrate individuality and authenticity. Whether you're a trendsetter, a trailblazer, or simply someone who loves to express themselves through their clothing, you'll find a home at Metallica. So join us on this journey of self-discovery through style. Browse our collection,
+find pieces that resonate with your unique personality,
+and make a statement that's as bold and fearless as you are.

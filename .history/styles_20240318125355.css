@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+.background-container {
+    width: 100%;
+    height: 100vh; 
+    background-image: url('melic.7.jpg'), url('melic.9.jpg');
+    background-repeat: no-repeat;
+    animation: moveUp 10s linear infinite, moveDown 10s linear infinite;
+   }
+   .navbar-container {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start;
+    height: 100%;
+   }
+   .navbar {
+    display: grid;
+    justify-content: center; 
+    align-items: center; 
+   }
+   
+   .navbar-items {
+    display: flex;
+    list-style-type: none; 
+    padding: 0; 
+   }
+   
+   .navbar-items li {
+    margin-right: 20px; 
+   }
+   .navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+   }
+   .navbar ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+   }
+   .navbar ul li a:hover{
+    color: grey;
+    transition: .3s;
+   }
+   .word-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    height: 10vh;
+   }
+   
+   .centered-word {
+    font-size: 2em; 
+    color: gray; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 90px;
+   }
+   .image-container1 {
+    display: flex;
+    overflow-x: hidden;
+    width: 100%;
+    height: 200px;
+    position: relative; 
+    align-items: center;
+    justify-content: space-between;
+   }
+   .image-container2 {
+    display: flex;
+    overflow-x: hidden; 
+    width: 100%; 
+    height: 200px; 
+    position: relative; 
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+   }
+   

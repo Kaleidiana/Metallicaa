@@ -1,0 +1,64 @@
+                                                                                                                                        body {
+                                                                                                                                        background-image: url("my imgs/giphy.gif");
+                                                                                                                                        background-repeat: no-repeat;
+                                                                                                                                        background-size: cover;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .h1 {
+                                                                                                                                        color: #eee9e9;
+                                                                                                                                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .p {
+                                                                                                                                        color: rgb(189, 183, 183);
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .nav {
+                                                                                                                                        display: flex;
+                                                                                                                                        justify-content: space-around;
+                                                                                                                                        flex-wrap: wrap;
+                                                                                                                                        align-items: center;
+                                                                                                                                        background-color: gainsboro;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .nav a {
+                                                                                                                                        text-decoration: none;
+                                                                                                                                        color: black;
+                                                                                                                                        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                                                                                                                                        font-size: 20px;
+                                                                                                                                        margin: 0 0 0 60px;
+                                                                                                                                        padding: 25px;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .this {
+                                                                                                                                        color: rgb(189, 183, 183);
+                                                                                                                                        font-size: 70px;
+                                                                                                                                        margin-left: 30%;
+                                                                                                                                        font-family: Georgia, 'Times New Roman', Times, serif;
+                                                                                                                                        font-style: italic;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .expl {
+                                                                                                                                        color: rgb(189, 183, 183);
+                                                                                                                                        margin: 60px;
+                                                                                                                                        font-size: 60px;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    span {
+                                                                                                                                        color: red;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .metallica {
+                                                                                                                                        font-size: 20px;
+                                                                                                                                        color: grey;
+                                                                                                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                                                                                        margin-left: 20%;
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                    .copyright {
+                                                                                                                                        font-size: 20px;
+                                                                                                                                        font-family: Georgia, 'Times New Roman', Times, serif;
+                                                                                                                                        color: black;
+                                                                                                                                        background-color: rgb(148, 141, 141);
+                                                                                                                                        padding: 20px;
+                                                                                                                                        border-
